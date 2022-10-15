@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Anthp8-JINC
-- 👀 I’m interested in Javascript and Python
-- 🌱 I’m currently learning more techniques to further my Javascripting Skills
-- 💞️ I’m looking to collaborate on small web applications
+- 👋 Hi, I’m @Anthony Pate II
+- 👀 I’m interested in Javascript, Python and many other coding languages.
+- 🌱 I’m currently learning more techniques to further my Coding Skills by working on community projects.
+- 💞️ I’m looking to collaborate on small web and business applications.
 - 📫 How to reach me (404) 458-9770
 
 <!---
