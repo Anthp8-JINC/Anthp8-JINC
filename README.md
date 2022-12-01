@@ -4,8 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://just4meinc.info)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Anth_P8)
 
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### About this guy:
 
 In my years of experience, I've increased my knowledge in multiple areas of Information Technology. Ranging from simple desktop and laptop break fixes to coding applications, application management, TCP/IP support, cyber security, penetration testing, and web development. These experiences help to thrust my skills forward into new opportunities that sharpen my overall knowledge within the tech industry.
 
