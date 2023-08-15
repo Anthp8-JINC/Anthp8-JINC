@@ -1,4 +1,4 @@
-## HOLA BUENA GENTE 👋, I'm [Anthony Pate II](https://github.com/Anthp8-JINC/)
+## HOLA BUENA GENTE 👋, I'm [Anthony Pate II / Yonthna](https://github.com/Anthp8-JINC/)
 
 ## [3D Web Portfolio](https://anthonypateii.me/)
 
