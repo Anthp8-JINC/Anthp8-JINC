@@ -1,6 +1,6 @@
 ## HOLA BUENA GENTE 👋, I'm [Anthony Pate II](https://github.com/Anthp8-JINC/)
 
-## 3D Web Portfolio [Anthony Pate II](https://anthonypateii.me/)
+## [3D Web Portfolio](https://anthonypateii.me/)
 
 
 
